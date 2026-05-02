@@ -209,3 +209,6 @@ Optional hooks include `didScanPermissions`, `permissionDidChange`, `customMenuI
 ## License
 
 All rights reserved.
+<img width="1212" height="862" alt="Screenshot 2026-05-01 at 7 52 44 PM" src="https://github.com/user-attachments/assets/3a2cc810-1797-4f7e-8063-be7999c0d498" />
+<img width="1212" height="862" alt="Screenshot 2026-05-01 at 7 52 38 PM" src="https://github.com/user-attachments/assets/580ea50c-30e1-4b5f-aab9-3776e6b8f873" />
+

@@ -1,0 +1,14 @@
+# Xcode
+#
+# File properties and settings
+xcuserdata/
+
+# DerivedData and Build
+.build/
+build/
+DerivedData/
+deploy/
+*.dmg
+
+# OS metadata
+.DS_Store

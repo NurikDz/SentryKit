@@ -68,14 +68,6 @@ After launching SentryKit for the first time:
 4. Enable the toggle
 5. Restart SentryKit
 
-### 5. Archive for Distribution
-
-1. **Product → Archive**
-2. In the Organizer, click **Distribute App**
-3. Choose **Copy App** for direct distribution, or **Developer ID** for notarized distribution
-
----
-
 ## Project Structure
 
 ```
